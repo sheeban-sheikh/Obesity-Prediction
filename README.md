@@ -6,7 +6,7 @@ This project predicts whether a person is **Obese** or **Not Obese** based on us
 
 ## Live Demo
 
-[Click Here to Try the Live App](https://your-deployment-link-here)
+[Click Here to Try the Live App](https://sheeban-sheikh.streamlit.app/)
 
 ---
 
@@ -65,8 +65,8 @@ Confusion Matrix:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/obesity-prediction-app.git
-cd obesity-prediction-app
+git clone https://github.com/sheeban-sheikh/obesity-prediction-.git
+cd obesity-prediction-
 ```
 
 2. Create a virtual environment (optional)
