@@ -65,7 +65,7 @@ Confusion Matrix:
 1. Clone the repository
 
 ```
-git clone https://github.com/sheeban-sheikh/obesity-prediction-.git
+git clone https://github.com/sheeban-sheikh/Obesity-Prediction.git
 cd obesity-prediction-
 ```
 
