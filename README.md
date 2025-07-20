@@ -1,4 +1,5 @@
 # Obesity Prediction Web App using Machine Learning
+<img src="https://github.com/sheeban-sheikh/Obesity-Prediction/blob/main/banner.png" />
 
 This project predicts whether a person is **Obese** or **Not Obese** based on user input using a trained **Logistic Regression Model**. The app is built using **Streamlit**, and the entire pipeline includes data cleaning, model training, saving model files, and a frontend interface.
 
