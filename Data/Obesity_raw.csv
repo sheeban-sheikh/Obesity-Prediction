@@ -1,0 +1,301 @@
+Age,Weight,Height_cm,Obesity_Status
+56,65.1,---,N/A
+69,66.9,163.1,
+46,48.4,165.6,Not Obese
+32,87.9,142.2,Obese
+60,,164.0,Not_Obese
+25,57.0,165.4,Not Obese
+38,79.3,170.1,Not Obese
+56,88.3,177.0,Not_Obese
+36,73.4,173.5,Not_Obese
+40,82.7,158.8,  Obese  
+28,72.6,157.6,Not Obese
+28,51.7,170.8,Not_Obese
+41,85.7,159.5,Obese
+70,89.9,152.7,  Obese  
+53,??,188.7,Obese
+57,??,161.9,Obese
+41,,---,Not Obese
+20,53.0,143.1,Not Obese
+39,81.5,173.5,Not Obese
+70,89.0,155.1,Obese
+19,76.4,165.3,Not Obese
+41,84.1,174.7,Not_Obese
+61,57.0,155.3,Not Obese
+47,??,165.8,Not Obese
+55,49.5,180.2,Not Obese
+19,58.4,140.4,Not_Obese
+38,83.2,156.9,  Obese  
+50,66.4,156.0,Not Obese
+29,88.1,163.1,Obese
+39,78.1,164.5,Not_Obese
+61,111.0,154.4,Obese
+42,71.4,158.5,Not_Obese
+66,48.9,157.3,Not_Obese
+44,69.5,161.5,Not Obese
+59,55.6,167.2,Not Obese
+45,84.7,174.1,Not_Obese
+33,70.6,175.6,Not_Obese
+32,,171.5,Not Obese
+64,,156.3,Not Obese
+68,81.1,165.0,Not_Obese
+61,63.2,188.7,Not Obese
+69,81.7,175.1,Not Obese
+20,85.7,160.6,  Obese  
+54,64.9,180.8,Not Obese
+68,56.1,161.1,Not Obese
+24,62.3,158.3,Not Obese
+38,80.7,179.0,Not_Obese
+26,71.4,151.9,Obese
+56,79.5,145.9,Obese
+35,96.4,174.4,Obese
+21,73.5,165.3,Not_Obese
+42,57.9,166.3,Not_Obese
+31,85.9,161.4,Obese
+67,70.8,162.6,Not Obese
+26,83.1,160.4,Obese
+43,86.0,158.7,  Obese  
+70,55.6,161.2,Not_Obese
+19,90.7,160.9,Obese
+37,83.6,156.7,Obese
+45,60.9,159.5,Not_Obese
+64,74.6,140.0,Obese
+24,73.9,171.8,Not Obese
+61,70.4,168.9,Not Obese
+25,83.1,164.2,Obese
+64,91.6,167.4,  Obese  
+52,70.1,167.7,Not_Obese
+31,90.0,157.8,Obese
+34,84.8,159.7,  Obese  
+53,73.5,170.3,Not_Obese
+67,72.6,167.1,Not Obese
+57,52.7,185.4,Not_Obese
+21,47.5,181.2,Not Obese
+19,72.5,174.3,Not Obese
+23,57.2,157.4,Not_Obese
+59,69.4,159.4,Not Obese
+21,62.0,155.0,Not Obese
+46,43.2,167.8,Not_Obese
+35,unknown,137.6,Not Obese
+43,63.8,160.4,Not Obese
+61,71.2,n/a,N/A
+51,56.6,149.8,Not_Obese
+27,65.0,173.0,Not Obese
+53,93.4,153.6,Obese
+31,unknown,167.7,Obese
+48,78.2,192.8,Not Obese
+65,50.9,148.9,Not_Obese
+32,105.8,163.5,Obese
+25,97.7,160.9,Obese
+31,90.5,159.0,  Obese  
+40,82.4,172.6,Not_Obese
+57,70.2,176.1,Not Obese
+38,,172.7,Not_Obese
+33,85.7,157.8,Obese
+62,,189.3,Not_Obese
+35,63.3,147.3,Not_Obese
+64,45.0,154.7,Not_Obese
+70,58.4,166.7,Not Obese
+41,94.9,165.9,  Obese  
+43,65.0,169.9,
+42,65.2,180.8,Not Obese
+62,74.8,163.8,Not Obese
+58,45.8,166.1,Not_Obese
+46,84.2,159.1,  Obese  
+32,89.0,170.9,  Obese  
+62,75.7,161.8,Not_Obese
+18,94.8,161.8,Obese
+42,50.1,170.4,Not_Obese
+24,97.7,175.3,  Obese  
+26,59.0,142.9,Not Obese
+41,50.8,168.6,Not Obese
+18,66.4,162.3,Not_Obese
+61,98.1,174.5,Obese
+25,69.7,162.5,Not_Obese
+41,56.0,178.0,Not Obese
+28,50.6,158.2,Not_Obese
+68,68.4,142.7,Obese
+34,40.1,175.5,Not_Obese
+25,50.5,156.6,Not_Obese
+52,93.1,149.2,Obese
+52,89.8,165.2,  Obese  
+50,68.1,162.6,Not_Obese
+22,63.0,173.2,Not Obese
+59,unknown,173.9,Obese
+56,105.2,166.0,  Obese  
+58,76.1,156.2,Obese
+45,83.6,167.9,Not Obese
+24,67.0,,Not_Obese
+26,unknown,170.7,Not Obese
+25,79.7,156.3,  Obese  
+29,71.9,161.0,Not Obese
+51,??,170.1,N/A
+50,89.2,177.5,Not_Obese
+65,60.8,174.7,Not_Obese
+40,,165.8,Not Obese
+41,80.3,160.1,Obese
+54,71.1,169.0,Not Obese
+52,76.6,154.1,  Obese  
+61,68.4,156.8,Not_Obese
+57,62.7,180.1,Not_Obese
+39,73.1,169.0,Not_Obese
+44,83.3,161.5,  Obese  
+52,63.0,173.3,Not_Obese
+18,60.7,177.9,Not_Obese
+52,64.7,160.6,Not_Obese
+54,84.3,160.7,Obese
+64,91.8,159.5,Obese
+31,75.4,174.6,Not Obese
+20,78.7,174.7,Not Obese
+18,60.6,178.9,Not_Obese
+22,83.2,175.1,Not_Obese
+43,78.3,148.7,  Obese  
+31,59.3,n/a,Not Obese
+56,43.2,154.4,Not Obese
+44,51.7,159.9,Not_Obese
+26,60.0,166.7,Not_Obese
+32,87.4,173.4,Not Obese
+32,93.3,156.1,Obese
+43,,141.8,Not Obese
+59,63.9,166.8,Not_Obese
+30,73.9,191.4,Not_Obese
+68,70.2,163.0,Not_Obese
+49,84.0,165.5,Obese
+56,62.2,182.8,Not Obese
+66,84.2,170.9,Not Obese
+69,66.4,167.2,
+49,82.8,169.4,Not_Obese
+21,65.9,167.5,Not Obese
+47,60.8,153.6,Not_Obese
+54,98.7,151.6,  Obese  
+40,86.0,183.9,Not Obese
+56,43.1,166.8,Not Obese
+62,63.3,166.0,Not_Obese
+32,88.1,164.1,Obese
+60,52.1,172.8,Not Obese
+46,81.6,190.4,Not Obese
+53,80.0,170.2,Not_Obese
+30,,159.1,Not Obese
+49,,163.7,Not_Obese
+24,38.6,175.7,Not_Obese
+68,96.6,159.2,Obese
+39,65.4,,Not_Obese
+45,82.1,141.8,  Obese  
+19,79.2,162.7,Not Obese
+59,90.4,,
+62,63.5,177.7,Not_Obese
+70,73.1,156.8,Not_Obese
+23,78.4,150.0,  Obese  
+45,83.1,162.4,Obese
+45,87.3,153.7,Obese
+61,62.8,163.5,Not_Obese
+61,60.0,164.9,Not Obese
+37,90.4,151.8,  Obese  
+47,39.4,173.0,Not_Obese
+28,93.6,163.4,  Obese  
+45,65.5,175.8,Not_Obese
+42,69.9,146.6,  Obese  
+56,59.8,,Not_Obese
+50,69.3,,Not Obese
+18,89.1,157.0,  Obese  
+44,81.6,163.4,  Obese  
+69,77.4,165.0,Not_Obese
+30,71.3,166.6,Not_Obese
+58,48.3,158.2,Not_Obese
+20,57.3,166.5,
+56,64.9,157.2,Not_Obese
+23,76.9,171.7,Not_Obese
+25,71.0,163.9,Not_Obese
+44,84.8,166.6,  Obese  
+26,77.1,190.7,Not Obese
+54,70.8,153.9,Not_Obese
+50,104.1,178.9,  Obese  
+68,76.1,138.4,Obese
+59,63.5,144.2,Obese
+61,97.9,152.6,  Obese  
+41,,153.2,Not Obese
+32,97.2,167.0,Obese
+49,68.3,167.9,Not Obese
+49,84.6,,Not_Obese
+41,48.2,163.5,Not Obese
+58,81.8,170.3,Not_Obese
+69,,---,N/A
+66,49.7,151.7,Not Obese
+66,,161.4,Not_Obese
+69,42.8,164.3,Not_Obese
+29,41.3,169.9,Not Obese
+56,75.4,157.3,Obese
+19,78.6,164.1,Not_Obese
+20,84.6,165.3,Obese
+66,81.1,158.0,Obese
+54,92.1,157.7,  Obese  
+66,80.5,166.0,Not_Obese
+34,??,163.7,Not Obese
+66,68.9,170.0,Not_Obese
+19,65.8,154.5,Not Obese
+19,74.4,161.5,Not_Obese
+45,53.5,162.7,Not Obese
+40,,173.1,Not_Obese
+54,68.7,155.6,Not_Obese
+49,74.1,167.3,Not_Obese
+50,74.2,n/a,Obese
+18,33.2,181.5,Not_Obese
+36,56.5,154.9,Not Obese
+19,68.4,158.4,Not_Obese
+70,69.2,155.6,Not_Obese
+61,73.9,148.3,Obese
+43,74.5,182.6,Not Obese
+49,92.7,152.6,  Obese  
+23,74.7,156.8,Obese
+49,,178.2,Not_Obese
+21,46.0,147.5,Not_Obese
+28,49.5,172.6,Not_Obese
+34,78.0,150.9,Obese
+55,85.9,177.5,Not_Obese
+41,93.1,143.3,Obese
+22,57.6,147.5,Not_Obese
+69,65.4,159.6,Not_Obese
+51,73.6,n/a,Not Obese
+23,100.7,164.7,Obese
+39,71.7,161.6,Not_Obese
+28,93.3,178.5,Not_Obese
+65,72.5,186.6,Not_Obese
+33,87.3,171.7,Not_Obese
+50,85.4,158.8,  Obese  
+26,72.5,160.8,Not_Obese
+23,54.7,152.1,Not Obese
+33,66.0,166.0,Not_Obese
+46,92.3,148.7,  Obese  
+20,83.2,170.5,Not Obese
+37,63.5,185.1,Not_Obese
+53,64.9,172.2,Not_Obese
+36,44.0,160.3,Not Obese
+43,91.7,170.3,  Obese  
+20,83.3,181.2,Not Obese
+36,67.9,180.7,Not Obese
+37,73.0,155.0,Obese
+49,,170.1,Not_Obese
+24,62.7,163.4,Not Obese
+69,90.0,173.1,  Obese  
+58,84.7,168.8,Not Obese
+50,75.0,141.3,Obese
+57,69.8,161.5,Not Obese
+56,81.9,167.0,Not Obese
+35,65.8,150.7,Not_Obese
+57,45.0,170.8,Not Obese
+18,69.9,149.8,  Obese  
+28,76.0,157.0,
+45,86.8,178.4,Not Obese
+42,48.4,156.2,Not_Obese
+67,unknown,170.7,Not Obese
+40,,147.5,Not_Obese
+48,53.5,185.8,Not_Obese
+47,77.3,162.0,Not_Obese
+59,81.2,166.0,Not_Obese
+52,65.6,166.8,Not Obese
+24,100.8,171.1,  Obese  
+33,,149.8,Not_Obese
+43,63.3,164.9,Not Obese
+65,62.9,158.4,Not_Obese
+69,57.8,148.1,Not_Obese
+66,61.6,174.9,Not Obese
